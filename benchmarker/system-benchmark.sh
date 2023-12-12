@@ -40,3 +40,4 @@ sysbench fileio --file-total-size=1G --file-test-mode=rndrw --time=300 --max-req
 sysbench fileio --file-total-size=1G cleanup
 
 echo "Benchmarking Completed. Report generated: $benchmark_report"
+

@@ -27,3 +27,5 @@ log_container_usage() {
 
 # Execute the function
 log_container_usage
+
+
