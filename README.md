@@ -39,5 +39,5 @@ The repository is organized into different folders, each dedicated to a specific
 To use these scripts, clone the repository and navigate to the desired script directory:
 
 ```bash
-git clone https://github.com/yourusername/DevOpsShellHub.git
-cd DevOpsShellHub/
+git clone https://github.com/yourusername/DevOpsBashHub.git
+cd DevOpsBashHub/
